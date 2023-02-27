@@ -1,3 +1,4 @@
+global _start
 section .data
     ; strucs
     timeval:
